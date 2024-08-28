@@ -13,3 +13,5 @@ Contact
 If you have any questions or suggestions about the project, feel free to contact us ashishkumar85526@gmail.com.
 
 Thank you for your interest in the Landing Page Project! We look forward to your contributions.
+
+here is the landing page site: https://ashish2445.github.io/Landing-page/
